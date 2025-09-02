@@ -13,13 +13,13 @@
     "title": "A visegrádi régió irodalmi emlékezete"
   },
   "legend": {
-    "edgeLabel": "idegennyelvű wikin",
-    "colorLabel": "hagyomány",
-    "nodeLabel": "szerző / hagyomány"
+    "edgeLabel": "Idegennyelvű wikin",
+    "colorLabel": "Wiki",
+    "nodeLabel": "Szerző / Wiki"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Type",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "default"
   },
   "informationPanel": {
