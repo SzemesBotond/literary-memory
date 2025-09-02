@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Szemes Botond"
+  },
+  "text": {
+    "more": "Szemes Botond és Dobás Kata. „A visegrádi országok digitális irodalmi emlékezete. Wikipedia, Wikidata – a regionális irodalomtörténet új alakzatai”. Irodalomtörténeti Közlemények 129, 2. sz. (2025): 191–212. doi: 10.56232/itk.2025.2.04",
+    "intro": "Interaktív vizualizáció a „A visegrádi országok digitális irodalmi emlékezete. Wikipedia, Wikidata – a regionális irodalomtörténet új alakzatai” című tanulmányhoz",
+    "title": "A visegrádi régió irodalmi emlékezete"
+  },
+  "legend": {
+    "edgeLabel": "Idegennyelvű wikin",
+    "colorLabel": "Wiki",
+    "nodeLabel": "Szerző / Wiki"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
